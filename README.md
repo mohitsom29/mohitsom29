@@ -17,13 +17,13 @@
 
 ## Competitive Programming [here](https://codeforces.com/profile/mohits)
 
-- LeetCode : 800+ Problems (Data Structures and Algorithms) [here](https://leetcode.com/Ana__ms29/)
-- Stopstalk Profile : All CP Profiles [here](https://www.stopstalk.com/user/profile/Ana__MS)
+- LeetCode : 800+ Problems (Data Structures and Algorithms) [here](https://leetcode.com/Slimi_ms29/)
+- Stopstalk Profile : All CP Profiles [here](https://www.stopstalk.com/user/profile/Slimi_ms29)
 - LeetCode : 3.5 Star ⭐⭐⭐(Highest Rating - 1569)
 - Codeforces : Newbie (Highest Rating - 1055)
 - CodeChef : 3 Star ⭐⭐⭐ (Highest Rating - 1610)
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=Ana__ms29)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=Slimi_ms29)
 
 ---
 
